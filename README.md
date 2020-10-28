@@ -8,7 +8,7 @@ a XUA project is actually a combination of Definitions and PHP codes. XUA genera
 
 
 ## Getting Started
-First of all you need to meet prerequisites.
+First of all you need to meet prerequisites. salam
 
 ### Installing IDE
 Install an IntelliJ-based IDE. We recommend installing IDEA Community Edition (since it's free), using the following command.
